@@ -5,9 +5,9 @@
   
   <link href="/myblog/atom.xml" rel="self"/>
   
-  <link href="http://wangfangkui.github.io/"/>
+  <link href="http://xrange.org/myblog/"/>
   <updated>2019-04-08T00:22:56.127Z</updated>
-  <id>http://wangfangkui.github.io/</id>
+  <id>http://xrange.org/myblog/</id>
   
   <author>
     <name>Kris</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>first.md</title>
-    <link href="http://wangfangkui.github.io/2019/04/08/first-md/"/>
-    <id>http://wangfangkui.github.io/2019/04/08/first-md/</id>
+    <link href="http://xrange.org/myblog/2019/04/08/first-md/"/>
+    <id>http://xrange.org/myblog/2019/04/08/first-md/</id>
     <published>2019-04-08T00:21:08.000Z</published>
     <updated>2019-04-08T00:22:56.127Z</updated>
     
@@ -28,14 +28,14 @@
     </summary>
     
     
-      <category term="杂" scheme="http://wangfangkui.github.io/tags/%E6%9D%82/"/>
+      <category term="杂" scheme="http://xrange.org/myblog/tags/%E6%9D%82/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://wangfangkui.github.io/2019/04/08/hello-world/"/>
-    <id>http://wangfangkui.github.io/2019/04/08/hello-world/</id>
+    <link href="http://xrange.org/myblog/2019/04/08/hello-world/"/>
+    <id>http://xrange.org/myblog/2019/04/08/hello-world/</id>
     <published>2019-04-07T23:55:39.016Z</published>
     <updated>2019-04-07T23:55:39.016Z</updated>
     
