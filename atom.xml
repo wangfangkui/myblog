@@ -6,7 +6,7 @@
   <link href="/myblog/atom.xml" rel="self"/>
   
   <link href="http://xrange.org/myblog/"/>
-  <updated>2019-04-08T07:34:41.929Z</updated>
+  <updated>2019-04-08T07:45:56.869Z</updated>
   <id>http://xrange.org/myblog/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如果要创业</title>
+    <link href="http://xrange.org/myblog/2019/04/08/if-startup/"/>
+    <id>http://xrange.org/myblog/2019/04/08/if-startup/</id>
+    <published>2019-04-08T07:40:38.000Z</published>
+    <updated>2019-04-08T07:45:56.869Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>项目要迭代，钱和人要循序渐进，逐步升级</li><li>要根据实际约束决定技术路线</li><li>从一开始就应该贴合真正的场景，真正的用户，真正的数据</li><li>不要过于激进，尽可能使用成熟的技术</li><li>不要激发“图灵测试的欲望，降低用户预期</li><li>尽可能搞简单一一无论是对开发者还是用户</li><li>架构需要专业的人，特别是“老中医”</li><li>工程才是做好Al的钥匙一一系统先于算法</li><li>控制团队的沉没成本</li><li>多读历史，理解“时机”和“运气”</li></ul><p><a href="https://www.jiqizhixin.com/articles/2018-08-20-11" target="_blank" rel="noopener">文因互联CEO鲍捷：确保搞砸人工智能项目的十种方法 | 机器之心</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ul&gt;
+&lt;li&gt;项目要迭代，钱和人要循序渐进，逐步升级&lt;/li&gt;
+&lt;li&gt;要根据实际约束决定技术路线&lt;/li&gt;
+&lt;li&gt;从一开始就应该贴合真正的场景，真正的用户，真正的数据&lt;/li&gt;
+&lt;li&gt;不要过于激进，尽可能使用成熟的技术&lt;/li&gt;
+&lt;li&gt;不要激发“图灵测试的欲望，降低用
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>✨ 工作中遇到的新名词</title>
