@@ -6,7 +6,7 @@
   <link href="/myblog/atom.xml" rel="self"/>
   
   <link href="http://xrange.org/myblog/"/>
-  <updated>2019-04-08T00:22:56.127Z</updated>
+  <updated>2019-04-08T07:34:41.929Z</updated>
   <id>http://xrange.org/myblog/</id>
   
   <author>
@@ -17,18 +17,32 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>first.md</title>
-    <link href="http://xrange.org/myblog/2019/04/08/first-md/"/>
-    <id>http://xrange.org/myblog/2019/04/08/first-md/</id>
+    <title>✨ 工作中遇到的新名词</title>
+    <link href="http://xrange.org/myblog/2019/04/08/new-inwork/"/>
+    <id>http://xrange.org/myblog/2019/04/08/new-inwork/</id>
     <published>2019-04-08T00:21:08.000Z</published>
-    <updated>2019-04-08T00:22:56.127Z</updated>
+    <updated>2019-04-08T07:34:41.929Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li><p>秩和检验 卡方检验</p></li><li><p>KS-test 验证风控模型</p></li><li><p>CRNN  ORC</p></li><li><p>Word2vec NLP</p><ul><li><a href="https://blog.csdn.net/mytestmy/article/details/26961315" target="_blank" rel="noopener">csdn blog 基础篇</a></li><li><a href="http://shomy.top/2017/07/28/word2vec-all/" target="_blank" rel="noopener">Word2vec数学原理全家桶</a></li><li><a href="https://github.com/Embedding/Chinese-Word-Vectors?utm_source=gold_browser_extension" target="_blank" rel="noopener">中文词向量-github</a></li><li><a href="https://juejin.im/entry/5afa98715188253064653ef8?utm_source=gold_browser_extension" target="_blank" rel="noopener">负采样</a></li></ul></li><li><p>低秩</p><ul><li><a href="https://wenku.baidu.com/view/7128ca3014791711cc791765.html" target="_blank" rel="noopener">矩阵低秩分解理论-百度文库</a></li><li><a href="https://www.zhihu.com/question/28630628" target="_blank" rel="noopener">矩阵低秩的意义?-知乎</a></li><li><a href="https://blog.csdn.net/tiandijun/article/details/41578175" target="_blank" rel="noopener">从稀疏表示到低秩表示</a></li><li><a href="https://blog.csdn.net/smilebluesky/article/details/41154419" target="_blank" rel="noopener">低秩矩阵在机器视觉中的理解</a></li><li><a href="https://yoyoyohamapi.gitbooks.io/mit-ml/content/%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F/articles/%E4%BD%8E%E7%A7%A9%E7%9F%A9%E9%98%B5%E5%88%86%E8%A7%A3.html" target="_blank" rel="noopener">低秩矩阵分解</a></li></ul></li><li><p>机器学习中范数</p><ul><li><a href="https://blog.csdn.net/zouxy09/article/details/24971995" target="_blank" rel="noopener">L0 L1 L2 范数</a></li><li><a href="https://www.jianshu.com/p/70487abdf96b" target="_blank" rel="noopener">正则项浅析</a></li></ul></li><li><p>xgboost</p><ul><li><a href="https://www.jianshu.com/p/30e3adaf5f20" target="_blank" rel="noopener">slice 1</a>  <a href="https://www.jianshu.com/p/a4d6045e8a59" target="_blank" rel="noopener">slice 2</a> <a href="https://www.jianshu.com/p/fdcf2ddb8bc1" target="_blank" rel="noopener">slice 3</a> <a href="https://www.jianshu.com/p/a4d6045e8a59" target="_blank" rel="noopener">slice 4</a> <a href="https://www.jianshu.com/p/629edf6412de" target="_blank" rel="noopener">疑问和解决</a></li></ul></li><li><p>量纲</p></li><li><p>牛顿法、海森矩阵</p></li><li><p>异方差性</p></li><li><p>如何将数据正态化：</p><ol><li>BOX-COX 变换</li><li>log 变换</li></ol></li><li><p>回归显著</p></li></ul>]]></content>
     
     <summary type="html">
     
+      
+      
+        &lt;ul&gt;
+&lt;li&gt;&lt;p&gt;秩和检验 卡方检验&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;KS-test 验证风控模型&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;CRNN  ORC&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Word2vec NLP&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:/
+      
+    
     </summary>
     
-    
-      <category term="杂" scheme="http://xrange.org/myblog/tags/%E6%9D%82/"/>
     
   </entry>
   
